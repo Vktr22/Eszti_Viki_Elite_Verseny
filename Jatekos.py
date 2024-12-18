@@ -8,7 +8,7 @@ class Jatekos():
         self.tank=tank
         self.pozicio=pozicio
 
-jatekos= Jatekos(10,0,0, False, False,0,1,"Thorodin")
+
 
 def get_pozicio(self):
     return self.pozicio

@@ -26,7 +26,7 @@ def vasarol_valaszt(jatekos):  #mainben akk hívjuk, ha vasarolE input értéke 
         mennyiArut:int=int(input())
         '''valsztKerdes="dokkoló"
         vasarol_lista=vasarol_lista.append(valsztKerdes)'''
-    while(valsztKerdes!=@):
+    while(valsztKerdes!="@"):
         i=0
         while(i<=len(vasarol_lista[])):
             if(vasarol_lista[i]==)
